@@ -3,8 +3,8 @@ const str = "ssss"
 
 for (let i = 0; i < 5; i++) {
   var element = 5
-  console.log('ssssssddd');
-  
+  console.log("ssssssddd")
+
   console.log(element)
 }
 </script>
