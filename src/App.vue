@@ -1,15 +1,12 @@
 <script setup lang="ts">
 const str = "ssss"
 
-for (let i = 0;i<5;i++) {
+for (let i = 0; i < 5; i++) {
   var element = 5
-
-
-  console.log(element);
+  console.log('ssssssddd');
   
+  console.log(element)
 }
-
-
 </script>
 
 <template>
