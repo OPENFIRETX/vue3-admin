@@ -1,6 +1,9 @@
 <script setup lang="ts">
+const str = "ssss"
 
-const str ='ssss';
+for (let i = 0; i < 5; i++) {
+  var element = 5
+}
 
 </script>
 
@@ -11,8 +14,9 @@ const str ='ssss';
 </template>
 
 <style scoped lang="scss">
-.box{
+.box {
   background-color: aqua;
-  h1{}
+  h1 {
+  }
 }
 </style>
