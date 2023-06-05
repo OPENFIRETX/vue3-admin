@@ -4,7 +4,6 @@ const str = "ssss"
 for (let i = 0; i < 5; i++) {
   var element = 5
 }
-
 </script>
 
 <template>
